@@ -1,2 +1,36 @@
-# GISTest
-this repository is meant for getting familiarised with GIS work
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.31307077407837,
+              14.497646012886685
+            ],
+            [
+              79.31508779525757,
+              14.497646012886685
+            ],
+            [
+              79.31508779525757,
+              14.498965184334129
+            ],
+            [
+              79.31307077407837,
+              14.498965184334129
+            ],
+            [
+              79.31307077407837,
+              14.497646012886685
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
